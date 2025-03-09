@@ -3,147 +3,147 @@
   "WorkspaceRootPath": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\helpers\\dbchelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\helpers\\dbchelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\builder\\attributedefinebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\builder\\attributedefinebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\valuetableconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\valuetableconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\symbolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\symbolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\signalgroupconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\signalgroupconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\nodeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\nodeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\multipletxmessageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\multipletxmessageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\messageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\messageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\iconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\iconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\dbcconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\dbcconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\commentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\commentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\baudrateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\baudrateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\attributedefineconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\attributedefineconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\helpers\\parserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\helpers\\parserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\attributevalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\attributevalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\dbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\dbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\dbcobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\dbcobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\definitions\\messagedefinitions\\signal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\messagedefinitions\\signal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\definitions\\valuetabledefinitions\\valuetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\valuetabledefinitions\\valuetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\definitions\\userdefinitions\\attributevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\definitions\\userdefinitions\\attributedefinestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributedefinestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\definitions\\userdefinitions\\attributedefineint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributedefineint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\definitions\\userdefinitions\\attributedefinehex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributedefinehex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\definitions\\userdefinitions\\attributedefinefloat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributedefinefloat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\definitions\\userdefinitions\\attributedefineenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributedefineenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\definitions\\userdefinitions\\attributedefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributedefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\definitions\\nodedefinitions\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\nodedefinitions\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\definitions\\messagedefinitions\\signalgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\messagedefinitions\\signalgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\definitions\\messagedefinitions\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\messagedefinitions\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\versionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\versionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\converter\\attributedefinedefconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\attributedefinedefconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\builder\\dbcbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\builder\\dbcbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\builder\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\builder\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\builder\\messagebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\builder\\messagebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\builder\\messagebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\builder\\versionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\messageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\messageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\dbcconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\dbcconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\dbcobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\dbcobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\definitions\\messagedefinitions\\signal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\messagedefinitions\\signal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\dbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\dbc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\signalgroupconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\signalgroupconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\definitions\\messagedefinitions\\signalgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\messagedefinitions\\signalgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\builder\\dbcbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\builder\\dbcbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\builder\\attributedefinebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\builder\\attributedefinebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\helpers\\dbchelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\helpers\\dbchelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\helpers\\parserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\helpers\\parserhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\valuetableconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\valuetableconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\symbolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\symbolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\nodeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\nodeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\multipletxmessageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\multipletxmessageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\iconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\iconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\commentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\commentconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\baudrateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\baudrateconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\attributedefineconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\attributedefineconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\attributevalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\attributevalueconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\definitions\\valuetabledefinitions\\valuetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\valuetabledefinitions\\valuetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\definitions\\userdefinitions\\attributevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributevalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\definitions\\userdefinitions\\attributedefinestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributedefinestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\definitions\\userdefinitions\\attributedefineint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributedefineint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\definitions\\userdefinitions\\attributedefinehex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributedefinehex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\definitions\\userdefinitions\\attributedefinefloat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributedefinefloat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\definitions\\userdefinitions\\attributedefineenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributedefineenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\definitions\\userdefinitions\\attributedefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\userdefinitions\\attributedefine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\definitions\\nodedefinitions\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\definitions\\nodedefinitions\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\versionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\versionconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\converter\\attributedefinedefconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\converter\\attributedefinedefconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\builder\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\builder\\ibuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\builder\\versionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\builder\\versionbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|e:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\dbclib\\dbclib\\dbclib\\builder\\symbolbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\dbclib\\builder\\symbolbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{441A6AE6-738A-453D-8951-EC84C2BAEB0C}|DbcLib\\DbcLib.csproj|solutionrelative:dbclib\\builder\\symbolbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -154,56 +154,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SymbolConverter.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\SymbolConverter.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Converter\\SymbolConverter.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\SymbolConverter.cs",
-              "RelativeToolTip": "DbcLib\\Converter\\SymbolConverter.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAywBYAAABOAAAA",
+              "DocumentIndex": 8,
+              "Title": "SignalGroup.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\MessageDefinitions\\SignalGroup.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Definitions\\MessageDefinitions\\SignalGroup.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\MessageDefinitions\\SignalGroup.cs",
+              "RelativeToolTip": "DbcLib\\Definitions\\MessageDefinitions\\SignalGroup.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:36:24.787Z",
+              "WhenOpened": "2025-03-08T15:38:20.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ValueTableConverter.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\ValueTableConverter.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Converter\\ValueTableConverter.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\ValueTableConverter.cs",
-              "RelativeToolTip": "DbcLib\\Converter\\ValueTableConverter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:36:37.971Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DbcHelper.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Helpers\\DbcHelper.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Helpers\\DbcHelper.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Helpers\\DbcHelper.cs",
-              "RelativeToolTip": "DbcLib\\Helpers\\DbcHelper.cs",
-              "ViewState": "AQIAAIsAAAAAAAAAAAAgwJ0AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:41:56.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "SignalGroupConverter.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\SignalGroupConverter.cs",
               "RelativeDocumentMoniker": "DbcLib\\Converter\\SignalGroupConverter.cs",
               "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\SignalGroupConverter.cs",
               "RelativeToolTip": "DbcLib\\Converter\\SignalGroupConverter.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAIwDgAAAABAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAwwBoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T15:36:13.136Z",
               "EditorCaption": ""
@@ -211,77 +185,114 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AttributeDefineBuilder.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Builder\\AttributeDefineBuilder.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Builder\\AttributeDefineBuilder.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Builder\\AttributeDefineBuilder.cs",
-              "RelativeToolTip": "DbcLib\\Builder\\AttributeDefineBuilder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Title": "MessageBuilder.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Builder\\MessageBuilder.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Builder\\MessageBuilder.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Builder\\MessageBuilder.cs",
+              "RelativeToolTip": "DbcLib\\Builder\\MessageBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:29:24.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NodeConverter.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\NodeConverter.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Converter\\NodeConverter.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\NodeConverter.cs",
-              "RelativeToolTip": "DbcLib\\Converter\\NodeConverter.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAIwA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:35:57.195Z",
+              "WhenOpened": "2025-03-08T15:30:27.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MultipleTxMessageConverter.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\MultipleTxMessageConverter.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Converter\\MultipleTxMessageConverter.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\MultipleTxMessageConverter.cs",
-              "RelativeToolTip": "DbcLib\\Converter\\MultipleTxMessageConverter.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAIwC8AAAABAAAA",
+              "Title": "Dbc.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Dbc.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Dbc.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Dbc.cs",
+              "RelativeToolTip": "DbcLib\\Dbc.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAApwBsAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:35:45.653Z",
+              "WhenOpened": "2025-03-08T15:43:42.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\MessageDefinitions\\Message.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Definitions\\MessageDefinitions\\Message.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\MessageDefinitions\\Message.cs",
+              "RelativeToolTip": "DbcLib\\Definitions\\MessageDefinitions\\Message.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAQwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:37:55.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Signal.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\MessageDefinitions\\Signal.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Definitions\\MessageDefinitions\\Signal.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\MessageDefinitions\\Signal.cs",
+              "RelativeToolTip": "DbcLib\\Definitions\\MessageDefinitions\\Signal.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAqwBkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:38:08.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MessageConverter.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\MessageConverter.cs",
               "RelativeDocumentMoniker": "DbcLib\\Converter\\MessageConverter.cs",
               "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\MessageConverter.cs",
               "RelativeToolTip": "DbcLib\\Converter\\MessageConverter.cs",
-              "ViewState": "AQIAAE4AAAAAAAAAAAAIwGYAAAABAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvykAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T15:35:29.722Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IConverter.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\IConverter.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Converter\\IConverter.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\IConverter.cs",
-              "RelativeToolTip": "DbcLib\\Converter\\IConverter.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "DocumentIndex": 12,
+              "Title": "ParserHelper.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Helpers\\ParserHelper.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Helpers\\ParserHelper.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Helpers\\ParserHelper.cs",
+              "RelativeToolTip": "DbcLib\\Helpers\\ParserHelper.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAIwA4AAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:35:15.72Z",
+              "WhenOpened": "2025-03-08T15:42:10.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbcHelper.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Helpers\\DbcHelper.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Helpers\\DbcHelper.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Helpers\\DbcHelper.cs",
+              "RelativeToolTip": "DbcLib\\Helpers\\DbcHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:41:56.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbcObject.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\DbcObject.cs",
+              "RelativeDocumentMoniker": "DbcLib\\DbcObject.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\DbcObject.cs",
+              "RelativeToolTip": "DbcLib\\DbcObject.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:43:55.029Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "DbcConverter.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\DbcConverter.cs",
               "RelativeDocumentMoniker": "DbcLib\\Converter\\DbcConverter.cs",
               "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\DbcConverter.cs",
               "RelativeToolTip": "DbcLib\\Converter\\DbcConverter.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAAAQwEEAAAABAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAwDIAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-08T15:34:15.721Z",
               "EditorCaption": ""
@@ -289,6 +300,90 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "AttributeDefineBuilder.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Builder\\AttributeDefineBuilder.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Builder\\AttributeDefineBuilder.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Builder\\AttributeDefineBuilder.cs",
+              "RelativeToolTip": "DbcLib\\Builder\\AttributeDefineBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:29:24.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValueTableConverter.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\ValueTableConverter.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Converter\\ValueTableConverter.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\ValueTableConverter.cs",
+              "RelativeToolTip": "DbcLib\\Converter\\ValueTableConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:36:37.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbcBuilder.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Builder\\DbcBuilder.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Builder\\DbcBuilder.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Builder\\DbcBuilder.cs",
+              "RelativeToolTip": "DbcLib\\Builder\\DbcBuilder.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:29:55.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SymbolConverter.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\SymbolConverter.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Converter\\SymbolConverter.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\SymbolConverter.cs",
+              "RelativeToolTip": "DbcLib\\Converter\\SymbolConverter.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAywBYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:36:24.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NodeConverter.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\NodeConverter.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Converter\\NodeConverter.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\NodeConverter.cs",
+              "RelativeToolTip": "DbcLib\\Converter\\NodeConverter.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:35:57.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MultipleTxMessageConverter.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\MultipleTxMessageConverter.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Converter\\MultipleTxMessageConverter.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\MultipleTxMessageConverter.cs",
+              "RelativeToolTip": "DbcLib\\Converter\\MultipleTxMessageConverter.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAIwC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:35:45.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IConverter.cs",
+              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\IConverter.cs",
+              "RelativeDocumentMoniker": "DbcLib\\Converter\\IConverter.cs",
+              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\IConverter.cs",
+              "RelativeToolTip": "DbcLib\\Converter\\IConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T15:35:15.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "CommentConverter.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\CommentConverter.cs",
               "RelativeDocumentMoniker": "DbcLib\\Converter\\CommentConverter.cs",
@@ -296,12 +391,11 @@
               "RelativeToolTip": "DbcLib\\Converter\\CommentConverter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAJgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:33:59.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:33:59.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "BaudRateConverter.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\BaudRateConverter.cs",
               "RelativeDocumentMoniker": "DbcLib\\Converter\\BaudRateConverter.cs",
@@ -309,12 +403,11 @@
               "RelativeToolTip": "DbcLib\\Converter\\BaudRateConverter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:33:36.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:33:36.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "AttributeDefineConverter.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\AttributeDefineConverter.cs",
               "RelativeDocumentMoniker": "DbcLib\\Converter\\AttributeDefineConverter.cs",
@@ -322,25 +415,11 @@
               "RelativeToolTip": "DbcLib\\Converter\\AttributeDefineConverter.cs",
               "ViewState": "AQIAAF4AAAAAAAAAAAAAwGsAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:32:23.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:32:23.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ParserHelper.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Helpers\\ParserHelper.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Helpers\\ParserHelper.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Helpers\\ParserHelper.cs",
-              "RelativeToolTip": "DbcLib\\Helpers\\ParserHelper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:42:10.371Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "AttributeValueConverter.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\AttributeValueConverter.cs",
               "RelativeDocumentMoniker": "DbcLib\\Converter\\AttributeValueConverter.cs",
@@ -348,38 +427,11 @@
               "RelativeToolTip": "DbcLib\\Converter\\AttributeValueConverter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:33:00.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:33:00.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Dbc.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Dbc.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Dbc.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Dbc.cs",
-              "RelativeToolTip": "DbcLib\\Dbc.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAP0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:43:42.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DbcObject.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\DbcObject.cs",
-              "RelativeDocumentMoniker": "DbcLib\\DbcObject.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\DbcObject.cs",
-              "RelativeToolTip": "DbcLib\\DbcObject.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAIwEIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:43:55.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "ValueTable.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\ValueTableDefinitions\\ValueTable.cs",
               "RelativeDocumentMoniker": "DbcLib\\Definitions\\ValueTableDefinitions\\ValueTable.cs",
@@ -387,12 +439,11 @@
               "RelativeToolTip": "DbcLib\\Definitions\\ValueTableDefinitions\\ValueTable.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAADIAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:40:44.17Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:40:44.17Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "AttributeValue.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\UserDefinitions\\AttributeValue.cs",
               "RelativeDocumentMoniker": "DbcLib\\Definitions\\UserDefinitions\\AttributeValue.cs",
@@ -400,12 +451,11 @@
               "RelativeToolTip": "DbcLib\\Definitions\\UserDefinitions\\AttributeValue.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAywCkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:41:04.217Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:41:04.217Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "AttributeDefineString.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\UserDefinitions\\AttributeDefineString.cs",
               "RelativeDocumentMoniker": "DbcLib\\Definitions\\UserDefinitions\\AttributeDefineString.cs",
@@ -413,12 +463,11 @@
               "RelativeToolTip": "DbcLib\\Definitions\\UserDefinitions\\AttributeDefineString.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAIwBkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:40:18.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:40:18.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "AttributeDefineInt.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\UserDefinitions\\AttributeDefineInt.cs",
               "RelativeDocumentMoniker": "DbcLib\\Definitions\\UserDefinitions\\AttributeDefineInt.cs",
@@ -426,12 +475,11 @@
               "RelativeToolTip": "DbcLib\\Definitions\\UserDefinitions\\AttributeDefineInt.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAIwEgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:40:07.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:40:07.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "AttributeDefineHex.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\UserDefinitions\\AttributeDefineHex.cs",
               "RelativeDocumentMoniker": "DbcLib\\Definitions\\UserDefinitions\\AttributeDefineHex.cs",
@@ -439,12 +487,11 @@
               "RelativeToolTip": "DbcLib\\Definitions\\UserDefinitions\\AttributeDefineHex.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAIwEcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:39:55.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:39:55.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "AttributeDefineFloat.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\UserDefinitions\\AttributeDefineFloat.cs",
               "RelativeDocumentMoniker": "DbcLib\\Definitions\\UserDefinitions\\AttributeDefineFloat.cs",
@@ -452,25 +499,11 @@
               "RelativeToolTip": "DbcLib\\Definitions\\UserDefinitions\\AttributeDefineFloat.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAIwEcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:39:44.903Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:39:44.903Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Signal.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\MessageDefinitions\\Signal.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Definitions\\MessageDefinitions\\Signal.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\MessageDefinitions\\Signal.cs",
-              "RelativeToolTip": "DbcLib\\Definitions\\MessageDefinitions\\Signal.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAAGUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:38:08.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "AttributeDefineEnum.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\UserDefinitions\\AttributeDefineEnum.cs",
               "RelativeDocumentMoniker": "DbcLib\\Definitions\\UserDefinitions\\AttributeDefineEnum.cs",
@@ -478,12 +511,11 @@
               "RelativeToolTip": "DbcLib\\Definitions\\UserDefinitions\\AttributeDefineEnum.cs",
               "ViewState": "AQIAAFcAAAAAAAAAAAAIwG8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:39:32.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:39:32.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 29,
               "Title": "AttributeDefine.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\UserDefinitions\\AttributeDefine.cs",
               "RelativeDocumentMoniker": "DbcLib\\Definitions\\UserDefinitions\\AttributeDefine.cs",
@@ -491,12 +523,11 @@
               "RelativeToolTip": "DbcLib\\Definitions\\UserDefinitions\\AttributeDefine.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAJQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:39:17.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:39:17.517Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 30,
               "Title": "Node.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\NodeDefinitions\\Node.cs",
               "RelativeDocumentMoniker": "DbcLib\\Definitions\\NodeDefinitions\\Node.cs",
@@ -504,38 +535,11 @@
               "RelativeToolTip": "DbcLib\\Definitions\\NodeDefinitions\\Node.cs",
               "ViewState": "AQIAAFYAAAAAAAAAAAAIwG4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:38:34.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:38:34.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "SignalGroup.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\MessageDefinitions\\SignalGroup.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Definitions\\MessageDefinitions\\SignalGroup.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\MessageDefinitions\\SignalGroup.cs",
-              "RelativeToolTip": "DbcLib\\Definitions\\MessageDefinitions\\SignalGroup.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAIwDcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:38:20.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Message.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\MessageDefinitions\\Message.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Definitions\\MessageDefinitions\\Message.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Definitions\\MessageDefinitions\\Message.cs",
-              "RelativeToolTip": "DbcLib\\Definitions\\MessageDefinitions\\Message.cs",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAIwJMAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:37:55.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "VersionConverter.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\VersionConverter.cs",
               "RelativeDocumentMoniker": "DbcLib\\Converter\\VersionConverter.cs",
@@ -543,12 +547,11 @@
               "RelativeToolTip": "DbcLib\\Converter\\VersionConverter.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:36:47.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:36:47.883Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "AttributeDefineDefConverter.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Converter\\AttributeDefineDefConverter.cs",
               "RelativeDocumentMoniker": "DbcLib\\Converter\\AttributeDefineDefConverter.cs",
@@ -556,8 +559,7 @@
               "RelativeToolTip": "DbcLib\\Converter\\AttributeDefineDefConverter.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAIwDkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:32:41.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:32:41.881Z"
             },
             {
               "$type": "Document",
@@ -569,8 +571,7 @@
               "RelativeToolTip": "DbcLib\\Builder\\VersionBuilder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:31:15.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:31:15.771Z"
             },
             {
               "$type": "Document",
@@ -582,25 +583,11 @@
               "RelativeToolTip": "DbcLib\\Builder\\SymbolBuilder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:30:45.818Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:30:45.818Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
-              "Title": "MessageBuilder.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Builder\\MessageBuilder.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Builder\\MessageBuilder.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Builder\\MessageBuilder.cs",
-              "RelativeToolTip": "DbcLib\\Builder\\MessageBuilder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:30:27.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
               "Title": "IBuilder.cs",
               "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Builder\\IBuilder.cs",
               "RelativeDocumentMoniker": "DbcLib\\Builder\\IBuilder.cs",
@@ -608,21 +595,7 @@
               "RelativeToolTip": "DbcLib\\Builder\\IBuilder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:30:08.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "DbcBuilder.cs",
-              "DocumentMoniker": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Builder\\DbcBuilder.cs",
-              "RelativeDocumentMoniker": "DbcLib\\Builder\\DbcBuilder.cs",
-              "ToolTip": "E:\\\u5C0F\u56FE\u5E93\\\u4E0A\u4F4D\u673A\\DbcLib\\DbcLib\\DbcLib\\Builder\\DbcBuilder.cs",
-              "RelativeToolTip": "DbcLib\\Builder\\DbcBuilder.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAIwBoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T15:29:55.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-08T15:30:08.549Z"
             }
           ]
         }

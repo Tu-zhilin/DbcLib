@@ -56,6 +56,11 @@ namespace DbcLib.Converter
         }
         private string _serializeMessage(Message message)
         {
+            if (message.Name == "VECTOR__INDEPENDENT_SIG_MSG" && message.Signals.Count == 0)
+            {
+                // 该信号Vector用来包含无归属的信号的，所以如果底下没有信号，则不需要生成
+                return "";
+            }
             if (message.Transmitters.Count == 0)
             {
                 return $"BO_ {DbcHelper.GetMessageIDForFile(message.Id)} {message.Name}: {message.Size}" + " Vector__XXX";

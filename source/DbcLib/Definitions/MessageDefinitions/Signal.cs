@@ -42,10 +42,13 @@ namespace DbcLib.Definitions.MessageDefinitions
         {
             get { return valueTable; }
         }
+        internal List<string> messages;
+
         public Signal(string name)
         {
             this.name = name;
             receivers = new List<string>();
+            messages = new List<string>();
         }
         public void CreateValueTable()
         {

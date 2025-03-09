@@ -24,7 +24,7 @@ namespace DbcLib.Converter
             signalGroup.SetId(id);
             foreach (var item in matches.Cast<Match>().ToList().Select(o => o.Groups[1].Value))
             {
-                signalGroup.AddSignal(item);
+                signalGroup.AddSignal(message.Signals.Where(o => o.Name == item).First());
             }
         }
         public string Serialize(Dbc dbc)

@@ -23,7 +23,7 @@ namespace DbcLib
         private List<Node> nodes;
         public IReadOnlyList<Node> Nodes => new ReadOnlyCollection<Node>(nodes);
         private List<Message> messages;
-        public IReadOnlyList<Message> Messages => new ReadOnlyCollection<Message>(messages);
+        public IReadOnlyList<Message> Messages => new ReadOnlyCollection<Message>(messages.Where(o => o.Name != "VECTOR__INDEPENDENT_SIG_MSG").ToList());
         private List<Signal> signals;
         public IReadOnlyList<Signal> Signals => new ReadOnlyCollection<Signal>(signals);
         private List<AttributeDefine> attributeDefines;

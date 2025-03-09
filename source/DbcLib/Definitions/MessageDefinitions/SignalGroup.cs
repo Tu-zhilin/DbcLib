@@ -14,19 +14,19 @@ namespace DbcLib.Definitions.MessageDefinitions
             get { return id; }
         }
         public string Name { get; set; }
-        private List<string> signals;
-        public IReadOnlyList<string> Signals => new ReadOnlyCollection<string>(signals);
+        private List<Signal> signals;
+        public IReadOnlyList<Signal> Signals => new ReadOnlyCollection<Signal>(signals);
         public SignalGroup(int repetition, string name)
         {
             this.id = repetition;
-            signals = new List<string>();
+            signals = new List<Signal>();
             this.Name = name;
         }
         internal void SetId(int id)
         {
             this.id = id;
         }
-        internal bool AddSignal(string signal)
+        internal bool AddSignal(Signal signal)
         {
             if (signals.Contains(signal))
             {
@@ -39,7 +39,7 @@ namespace DbcLib.Definitions.MessageDefinitions
             signals.Add(signal);
             return true;
         }
-        internal bool RemoveSignal(string signal)
+        internal bool RemoveSignal(Signal signal)
         {
             if (!signals.Contains(signal))
             {
